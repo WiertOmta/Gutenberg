@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="470" alt="Gutenberg" src="http://i.imgur.com/NlGJI3v.png">
+	<img width="470" alt="Coster" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Statue-Haarlem-Laurens_Janszoon_Coster.jpg">
 </p>
 
 > Modern framework to print correctly
@@ -13,9 +13,9 @@
 # How to use
 
 Simply include the right stylesheet(s) in your html and load it only for a printer.
-Gutenberg.css is the base stylesheet but there are themes available in the `themes` folder.
+Coster.css is the base stylesheet but there are themes available in the `themes` folder.
 
-Example with Gutenberg and "old style" theme :
+Example with Coster and "old style" theme :
 
 ```HTML
 <link rel="stylesheet" href="dist/gutenberg.css" media="print">
